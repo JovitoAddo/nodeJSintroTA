@@ -1,0 +1,6 @@
+		TUGAS 1
+01. runtime environment dimana bisa menjalankan javascript menggunakan engine V8, node js di gunakan untuk menjalan kan javascript
+02. request dari frontend berbentuk javascript masuk ke node js server event queue, lalu request menunggu event loop, lalu di kirim ke database sesuai request dari front end, terus kembali ke event queue dan balik ke client lagi dengan data yang di request
+03. built in modules sudah di buat oleh node js, tinggal di ambil jika di butuhkan. custom module adalah module yang di buat sendiri. external module adalah module yang di buat orang lain yang bisa di download sesuai kebutuhan
+04. built-in module: http module.  external module: npm i external module.  custom module: buat sendiri!
+	
